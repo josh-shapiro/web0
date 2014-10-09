@@ -1,0 +1,34 @@
+/* for styling an element */
+body {
+/*	background-image: url(http://a1.espncdn.com/prod/assets/bg_v2/bg_frontpage_red.jpg);
+	background-repeat: repeat-x;*/
+	background: linear-gradient(to bottom, #FF6600 , #0066FF);
+}
+h1 {
+	color: orange;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 10px;
+	background: blue;
+	text-align: center;
+	font-size: 100px;
+	display: inline-block;
+	width: 400px;
+}
+
+
+/* for styling an ID */
+#text-12 {
+	font-family: Helvetica;
+}
+
+/* for styling a class */
+.text {
+	display: inline-block;
+	color: black;
+}
+
+#bigword {
+	display: inline;
+	font-size: 43px;
+}
