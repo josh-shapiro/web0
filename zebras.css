@@ -5,15 +5,13 @@ body {
 	background: linear-gradient(to bottom, #FF6600 , #0066FF);
 }
 h1 {
-	color: orange;
+	color: white;
 	padding: 10px;
-	border: 5px solid black;
 	margin: 10px;
-	background: blue;
 	text-align: center;
 	font-size: 100px;
-	display: inline-block;
-	width: 400px;
+	display: block;
+	
 }
 
 
